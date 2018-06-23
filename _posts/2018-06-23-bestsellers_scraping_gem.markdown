@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Bestsellers Scraping Gem "
-date:       2018-06-23 13:37:23 +0000
+date:       2018-06-23 09:37:23 -0400
 permalink:  bestsellers_scraping_gem
 ---
 
@@ -30,7 +30,7 @@ I also didn't include a "where to by" option. I toyed with the idea of including
 
 **What I'd Have Loved**
 
-In the process of building *this* application, it's given me an opportunity to think strategically of what functionalities I'd like in "Mary's perfect book app." The goal of this app would be to tell me the book I should consider reading next, based on new releases, my preferences, and a few other factors.  Similar things already exist in http://whatshouldireadnext.com/ and https://www.goodreads.com/, but I'm *my* dream world, after working its magic and getting to the top choice, it'd just automatically purchase and send to me, removing the possibility of agonizing over it.
+In the process of building *this* application, it's given me an opportunity to think strategically of what functionalities I'd like in "Mary's perfect book app." The goal of this app would be to tell me the book I should consider reading next, based on new releases, my preferences, and a few other factors.  Similar things already exist in [What Should I Read Next](http://whatshouldireadnext.com/) and [Goodreads](https://www.goodreads.com/), but I'm *my* dream world, after working its magic and getting to the top choice, it'd just automatically purchase and send to me, removing the possibility of agonizing over it.
 
 The concept itself has an inherent flaw, however, because I (and I imagine other people, though I haven't done any research into this) actively enjoy reading about books through multiple sources before making purchases. I'm also skeptical of an application's ability to make these decisions for me and it's a bit lazy for me. Maybe it could start by telling me it's top five recommendations and I could have an option to automate the purchases. Or maybe I could just add books to a list on an ongoing basis (as I already do with my Amazon wishlists) and it would automatically select one to purchase every month (a book of the month club tailored specifically to me). 
 
